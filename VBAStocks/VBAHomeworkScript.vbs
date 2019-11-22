@@ -4,7 +4,7 @@ Attribute VB_Name = "Module1"
 'should I auto format?
 'how to save as a script file?
 'make sure to include screenshots
-'is upload format correct?
+'is upload format correct (the script file)?
 'link to bootcamp spot
 
 
